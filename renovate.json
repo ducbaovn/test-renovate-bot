@@ -18,5 +18,5 @@
   "enabledManagers": ["npm"],
   "ignorePresets": [":prHourlyLimit2"],
   "enabled": true,
-  "separateMinorPatch": true
+  "separateMinorPatch": false
 }

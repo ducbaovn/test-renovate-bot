@@ -7,8 +7,7 @@
   "packageRules": [
     {
       "packageNames": ["bao-version"],
-      "updateTypes": ["major"],
-      "labels": ["UPDATE-MAJOR"],
+      "matchCurrentVersion": "1.0.1",
       "enabled": true
     }
   ],

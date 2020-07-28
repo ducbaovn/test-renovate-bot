@@ -8,6 +8,9 @@
     {
       "packageNames": ["bao-version"],
       "matchCurrentVersion": "1.0.1",
+      "schedule": [
+        "before 2am"
+      ],
       "enabled": true
     }
   ],

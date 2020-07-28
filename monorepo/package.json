@@ -1,0 +1,22 @@
+{
+  "name": "monorepo",
+  "version": "1.0.0",
+  "description": "monorepo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cuongphamcxa/test-dependant-bot.git"
+  },
+  "dependencies": {
+    "bao-version": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cuongphamcxa/test-dependant-bot/issues"
+  },
+  "homepage": "https://github.com/cuongphamcxa/test-dependant-bot#readme"
+}

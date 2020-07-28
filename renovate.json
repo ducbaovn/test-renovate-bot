@@ -1,0 +1,18 @@
+{
+  "extends": ["config:base"],
+  "reviewers": [
+    "ducbaovn"
+  ],
+  "automerge": false,
+  "packageRules": [
+    {
+      "packageNames": ["bao-version"],
+      "enabled": true
+    }
+  ],
+  "bumpVersion": "patch",
+  "lockFileMaintenance": { "enabled": true },
+  "enabledManagers": ["npm"],
+  "ignorePresets": [":prHourlyLimit2"],
+  "enabled": true
+}

@@ -4,6 +4,12 @@
     "ducbaovn"
   ],
   "automerge": false,
+  "packageRules": [
+    {
+      "packageNames": ["test-version-v1"],
+      "enabled": true
+    }
+  ],
   "bumpVersion": null,
   "enabledManagers": ["npm"],
   "ignorePresets": [":prHourlyLimit2"],

@@ -10,9 +10,9 @@
       "enabled": true
     }
   ],
-  "bumpVersion": "patch",
+  "bumpVersion": "minor",
   "lockFileMaintenance": { "enabled": true },
   "enabledManagers": ["npm"],
   "ignorePresets": [":prHourlyLimit2"],
-  "enabled": false
+  "enabled": true
 }

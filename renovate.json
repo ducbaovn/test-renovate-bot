@@ -11,7 +11,7 @@
       "enabled": true
     }
   ],
-  "bumpVersion": "major",
+  "bumpVersion": "patch",
   "lockFileMaintenance": { "enabled": true },
   "enabledManagers": ["npm"],
   "ignorePresets": [":prHourlyLimit2"],

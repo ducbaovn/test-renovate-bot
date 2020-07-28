@@ -6,7 +6,7 @@
   "automerge": false,
   "packageRules": [
     {
-      "packageNames": ["bao-version"],
+      "packageNames": ["bao-version","test-version-v1"],
       "matchCurrentVersion": "1.0.1",
       "schedule": [
         "before 2am"

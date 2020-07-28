@@ -6,7 +6,7 @@
   "automerge": false,
   "packageRules": [
     {
-      "packagePatterns": ["^version"],
+      "packagePatterns": ["^huy"],
       "groupName": "test",
       "matchCurrentVersion": "1.0.1",
       "schedule": [

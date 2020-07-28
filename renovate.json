@@ -7,10 +7,10 @@
   "packageRules": [
     {
       "packageNames": ["bao-version"],
+      "updateTypes": ["patch"],
       "enabled": true
     }
   ],
-  "bumpVersion": "minor",
   "lockFileMaintenance": { "enabled": true },
   "enabledManagers": ["npm"],
   "ignorePresets": [":prHourlyLimit2"],

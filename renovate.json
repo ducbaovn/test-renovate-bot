@@ -7,6 +7,7 @@
   "packageRules": [
     {
       "packageNames": ["bao-version","test-version-v1"],
+      "groupName": "test",
       "matchCurrentVersion": "1.0.1",
       "schedule": [
         "before 2am"

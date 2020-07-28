@@ -1,6 +1,6 @@
 {
   "name": "test-renovate-bot",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "test-renovate-bot",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/ducbaovn/test-renovate-bot.git"
   },
   "dependencies": {
-    "bao-version": "1.0.0"
+    "bao-version": "1.0.1"
   },
   "author": "",
   "license": "ISC",

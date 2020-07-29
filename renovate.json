@@ -8,6 +8,10 @@
     {
       "excludePackageNames": ["bao-version"],
       "enabled": false
+    },
+    {
+      "packagePatterns": ["^test"],
+      "groupName": "test"
     }
   ],
   "bumpVersion": null,

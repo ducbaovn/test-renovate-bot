@@ -6,13 +6,12 @@
   "automerge": false,
   "packageRules": [
     {
-      "packageNames": ["bao-version"],
+      "excludePackageNames": ["bao-version"],
       "enabled": true
     }
   ],
   "bumpVersion": null,
   "enabledManagers": ["npm"],
   "ignorePresets": [":prHourlyLimit2"],
-  "enabled": false,
   "separateMinorPatch": false
 }

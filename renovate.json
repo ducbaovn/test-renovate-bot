@@ -21,5 +21,8 @@
   ],
   "enabledManagers": ["npm"],
   "ignorePresets": [":prHourlyLimit2"],
-  "separateMinorPatch": true
+  "separateMinorPatch": true,
+  "encrypted": {
+    "npmrc": "QWI0M+aDqqrkp8UVQ36miiLEn7XdgVAjJmcjOhq1bXytTzR9Fjr6AOcncA5b+4elZ3M+QxXJZN1iTKcmeNPwR1OWdjk2KUdEc7WvOcevUUztSt3/uMXds1ivHXW7EwAxRdt3kaf6KpO538kTymx2Uk2+WJ+cPB1HsuP0LgJBrknDvkxlNu/7aTpWKHHuob7uH9IAiHChTs992ZzJTQpk7L4ke4HuyoOyg6e8xjUz8RFqTO8QvBfRL+NIbqwsU9i68VEIMHYQP8QBN2kdNL80Rf2KcGFqwuR6FIwpnUrYysEYWzx8R0eWzpE2L6ywyKJ6Ixh4Pq3CgamffEmo54bKOw=="
+  }
 }

@@ -6,7 +6,7 @@
   "automerge": false,
   "packageRules": [
     {
-      "excludePatterns": ["^test"],
+      "excludePackagePatterns": ["^test"],
       "enabled": false
     },
     {

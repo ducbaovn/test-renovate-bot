@@ -6,17 +6,17 @@
   "automerge": false,
   "packageRules": [
     {
-      "excludePackagePatterns": ["^@distribution/*"],
+      "excludePackagePatterns": ["^test"],
       "enabled": false
     },
     {
-      "packagePatterns": ["^@distribution/*"],
+      "packagePatterns": ["^test"],
       "updateTypes": ["minor", "major"],
       "enabled": false
     },
     {
-      "packagePatterns": ["^@distribution/*"],
-      "groupName": "distribution"
+      "packagePatterns": ["^test"],
+      "groupName": "test"
     }
   ],
   "enabledManagers": ["npm"],

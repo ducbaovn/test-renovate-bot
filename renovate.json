@@ -17,5 +17,5 @@
   "bumpVersion": null,
   "enabledManagers": ["npm"],
   "ignorePresets": [":prHourlyLimit2"],
-  "separateMinorPatch": false
+  "separateMinorPatch": true
 }

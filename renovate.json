@@ -6,7 +6,7 @@
   "automerge": false,
   "packageRules": [
     {
-      "packageNames": ["taolao"],
+      "packageNames": ["bao-version"],
       "enabled": false
     }
   ],

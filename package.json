@@ -12,8 +12,8 @@
   },
   "dependencies": {
     "test-version-v1": "1.0.0",
-    "@distribution/common": "1.0.0",
-    "@distribution/faas": "1.0.0"
+    "@distribution/common": "1.0.5",
+    "@distribution/faas": "1.0.6"
   },
   "author": "",
   "license": "ISC",

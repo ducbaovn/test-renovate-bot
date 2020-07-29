@@ -11,11 +11,16 @@
     },
     {
       "packagePatterns": ["^test"],
+      "updateTypes": ["minor", "major"],
+      "enabled": false
+    },
+    {
+      "packagePatterns": ["^test"],
       "groupName": "test"
     }
   ],
   "bumpVersion": null,
   "enabledManagers": ["npm"],
   "ignorePresets": [":prHourlyLimit2"],
-  "separateMinorPatch": false
+  "separateMinorPatch": true
 }

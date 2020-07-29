@@ -6,7 +6,7 @@
   "automerge": false,
   "packageRules": [
     {
-      "excludePackageNames": ["bao-version"],
+      "excludePatterns": ["^test"],
       "enabled": false
     },
     {

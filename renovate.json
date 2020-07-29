@@ -6,7 +6,7 @@
   "automerge": false,
   "packageRules": [
     {
-      "packageNames": ["test-version-v1"],
+      "packageNames": ["taolao"],
       "enabled": true
     }
   ],

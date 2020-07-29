@@ -7,7 +7,7 @@
   "packageRules": [
     {
       "excludePackageNames": ["bao-version"],
-      "enabled": true
+      "enabled": false
     }
   ],
   "bumpVersion": null,

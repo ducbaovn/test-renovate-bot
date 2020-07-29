@@ -21,5 +21,6 @@
   ],
   "enabledManagers": ["npm"],
   "ignorePresets": [":prHourlyLimit2"],
-  "separateMinorPatch": true
+  "separateMinorPatch": true,
+  "schedule": ["every weekend"]
 }

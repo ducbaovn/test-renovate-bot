@@ -6,21 +6,20 @@
   "automerge": false,
   "packageRules": [
     {
-      "excludePackagePatterns": ["^test"],
+      "excludePackagePatterns": ["^@distribution/*"],
       "enabled": false
     },
     {
-      "packagePatterns": ["^test"],
+      "packagePatterns": ["^@distribution/*"],
       "updateTypes": ["minor", "major"],
       "enabled": false
     },
     {
-      "packagePatterns": ["^test"],
-      "groupName": "test"
+      "packagePatterns": ["^@distribution/*"],
+      "groupName": "distribution"
     }
   ],
   "enabledManagers": ["npm"],
   "ignorePresets": [":prHourlyLimit2"],
-  "separateMinorPatch": true,
-  "schedule": ["every weekend"]
+  "separateMinorPatch": true
 }

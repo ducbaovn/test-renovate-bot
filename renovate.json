@@ -7,12 +7,12 @@
   "packageRules": [
     {
       "packageNames": ["bao-version"],
-      "enabled": false
+      "enabled": true
     }
   ],
   "bumpVersion": null,
   "enabledManagers": ["npm"],
   "ignorePresets": [":prHourlyLimit2"],
-  "enabled": true,
+  "enabled": false,
   "separateMinorPatch": false
 }

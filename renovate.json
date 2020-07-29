@@ -19,7 +19,6 @@
       "groupName": "test"
     }
   ],
-  "bumpVersion": null,
   "enabledManagers": ["npm"],
   "ignorePresets": [":prHourlyLimit2"],
   "separateMinorPatch": true

@@ -22,5 +22,5 @@
   "enabledManagers": ["npm"],
   "ignorePresets": [":prHourlyLimit2"],
   "separateMinorPatch": true,
-  "rangeStrategy": "update-lockfile"
+  "rangeStrategy": "pin"
 }
